@@ -1,0 +1,7 @@
+Digital Communication,Sheenu Agarwal,29,Rs.150
+Basics of Electronics Engineering,Alok Sharma,30,Rs.100.5
+Programming With Python,Sandesh Tripathi,30,Rs.300
+Microcontroller and Embedded System,Anil Chaurasia,30,Rs.200
+Antenna and Wave Propogration,Saurav Joshi,29,Rs.150
+Cellular and Mobile Communication,Dr.Abhinav Bhatnagar,30,Rs.170
+Digital Signal Processing,Anoop Raghuvanshi,30,Rs.190
